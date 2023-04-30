@@ -18,10 +18,6 @@ A Justiça do Trabalho concilia e julga as ações judiciais entre trabalhadores
 
 [Estratégia de TI TST.](https://www.tst.jus.br/web/guest/estrategia-de-ti)
 
-## TRT da 2ª Região
-
-O Tribunal Regional do Trabalho da 2ª Região é o órgão da Justiça do Trablho que abrange a cidade de São Paulo e as regiões de Guarulhos 
-
 ## O que é a Justiça do trabalho?
 
 Os órgãos da Justiça do Trabalho são o Tribunal Superior do Trabalho (TST), os Tribunais Regionais do Trabalho (TRTs) e os Juízes do Trabalho. Os Juízes do Trabalho atuam nas `Varas do Trabalho` e formam a `1ª instância da Justiça do Trabalho`. Existem 24 TRTs que são compostos por `Desembargadores` que representam a `2ª instância da Justiça do Trabalho`.
