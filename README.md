@@ -47,6 +47,11 @@ Instaurado o __Dissídio Coletivo__ no TRT, o Presidente da Corte, ou seu Vice, 
 Instaurado no TST, ultrapassada a fase conciliatória, haverá sorteio do relator, que o levará a julgamento na Sessão Especializada em __Dissídios Coletivos__.
 A decisão do __Dissídio Coletivo__ que verse sobre novas condições de trabalho poderá ser estendida a todos os empregados da mesma categoria profissional, representada pelo sindicato autor, desde que compreendida na jurisdição do Tribunal.
 
+## Projeto Bem-Te-vi
+
+É um sistema de apoio à gestão e triagem da base de dados de processos dos gabinetes de ministros do TST. Usando Big Data e Inteligência Artificial (IA), Disponibiliza aos gabinetes, informações sobre os processos de sua base de dados de forma eficiente e acessível. Possibilitando a denegação por transcendência com base nos processos já julgados pelo magistrado. O sistema começou a funcionar no TST em fevereiro de 2020.
+O sistema funciona fazendo inicialmente a extração do conteúdo das peças processuais mais relevates de um processo, dos sistemas jurídicos internos e dos Tribunais Regionais do Trabalho, é feito o tratamento apropriado para cada tipo e base de dados. Os dados são coletados, transformados e armazenados utilizando Big Data. Os textos tratados são utilizados como insumos para os algoritmos de aprendizado de máquina, utilizando técnicas de Processamento de Linguagem Natural que possibilita o a criação de modelos preditivos capazes de extrair informações da linguagem jurídica trabalhista. Esses modelos auxiliam os servidores na tomada de decisões, como a análise de transcendência, um critério jurídico para admissibilidade do recurso definido pela reforma trabalhista de 2017.
+
 ## Projeto Sabiá
 
 O projeto tem como objetivo desenvolver soluções tecnológicas para complementar o sistema Bem-Te-Vi no que se refere às funcionalidades de Agrupamento de Processos e Levantamento de Jurisprudência. Bem-Te-Vi ja está sendo utilizado pelo TST para a classificação e agrupamento de processos trabalhistas similares com a ajuda de ML usando PLN. Esse processo ajuda os Juizes na tomada de decisão e padronização dos recuros, decisões e acórdãos.
