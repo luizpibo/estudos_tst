@@ -86,4 +86,6 @@ Eficiência organizacional, Decreto nº 9.739 / 2019, que visa à administraçã
 - [Organograma TST.](https://www.tst.jus.br/documents/10157/1628486/ORGANOGRAMA+ATUAL+-+11-4-2023.pdf/c9f85390-6b0f-46c2-8354-5069870c3eb5?t=1681387918250)
 - [Estratégia de TI TST.](https://www.tst.jus.br/web/guest/estrategia-de-ti)
 - [Manual bem-te-vi.](https://www.tst.jus.br/documents/18640430/24708373/Manual+do+usu%C3%A1rio+Bem-Te-Vi/7c2b006a-fc28-6ca1-438f-c47eb514e4bf)
-- [Plano de trabalho UNB](http://dpi.unb.br/images/Decreto10.426.20_documentosassinados_DPA/23106.0995082021-15/SEI_UnB_-_7424903_-_Plano_de_trabalho_-_com_recursos_financeiros.pdf)
+- [Plano de trabalho UNB.](http://dpi.unb.br/images/Decreto10.426.20_documentosassinados_DPA/23106.0995082021-15/SEI_UnB_-_7424903_-_Plano_de_trabalho_-_com_recursos_financeiros.pdf)
+- [CSTJ - Justiça 4.0 - bem-te-vi.](https://www.csjt.jus.br/web/csjt/justica-4-0/bem-ti-vi)
+- [TECNOLOGIA APLICADA À GESTÃO DOS CONFLITOS NO ÂMBITO DO PODER JUDICIÁRIO BRASILEIRO.](https://conhecimento.fgv.br/sites/default/files/2022-08/publicacoes/estudos_e_pesquisas_ia_1afase.pdf)
