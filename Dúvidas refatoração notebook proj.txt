@@ -1,0 +1,7 @@
+1 - Mostrar uma linha do dataframe como exemplo
+2 - Usar o SabiaUtils para fazer o pre-processamento
+3 - Usar o Apache Spark?
+4 - Huggingface tokenizer
+5 - Qual função usar para calcular o TFIDF
+6 - Como o tema é selecionado
+7 - Entender o gráfico
